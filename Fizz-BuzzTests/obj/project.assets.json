@@ -1225,6 +1225,16 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XPath.XmlDocument.dll": {}
         }
+      },
+      "Fizz-Buzz/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/Fizz-Buzz.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Fizz-Buzz.dll": {}
+        }
       }
     }
   },
@@ -4613,10 +4623,16 @@
         "system.xml.xpath.xmldocument.4.3.0.nupkg.sha512",
         "system.xml.xpath.xmldocument.nuspec"
       ]
+    },
+    "Fizz-Buzz/1.0.0": {
+      "type": "project",
+      "path": "../Fizz-Buzz/Fizz-Buzz.csproj",
+      "msbuildProject": "../Fizz-Buzz/Fizz-Buzz.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
+      "Fizz-Buzz >= 1.0.0",
       "Microsoft.NET.Test.Sdk >= 16.5.0",
       "NUnit >= 3.12.0",
       "NUnit3TestAdapter >= 3.16.1"
@@ -4628,11 +4644,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\iisak\\source\\repos\\Fizz-BuzzTests\\Fizz-BuzzTests.csproj",
+      "projectUniqueName": "C:\\Users\\iisak\\Documents\\GitHub\\iisakkikivimaki_swd\\Fizz-BuzzTests\\Fizz-BuzzTests.csproj",
       "projectName": "Fizz-BuzzTests",
-      "projectPath": "C:\\Users\\iisak\\source\\repos\\Fizz-BuzzTests\\Fizz-BuzzTests.csproj",
+      "projectPath": "C:\\Users\\iisak\\Documents\\GitHub\\iisakkikivimaki_swd\\Fizz-BuzzTests\\Fizz-BuzzTests.csproj",
       "packagesPath": "C:\\Users\\iisak\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\iisak\\source\\repos\\Fizz-BuzzTests\\obj\\",
+      "outputPath": "C:\\Users\\iisak\\Documents\\GitHub\\iisakkikivimaki_swd\\Fizz-BuzzTests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\iisak\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4647,7 +4663,11 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\iisak\\Documents\\GitHub\\iisakkikivimaki_swd\\Fizz-Buzz\\Fizz-Buzz.csproj": {
+              "projectPath": "C:\\Users\\iisak\\Documents\\GitHub\\iisakkikivimaki_swd\\Fizz-Buzz\\Fizz-Buzz.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

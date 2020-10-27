@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\iisak\\source\\repos\\Fizz-Buzz\\Fizz-Buzz.csproj": {}
+    "C:\\Users\\iisak\\Documents\\GitHub\\iisakkikivimaki_swd\\Fizz-Buzz\\Fizz-Buzz.csproj": {}
   },
   "projects": {
-    "C:\\Users\\iisak\\source\\repos\\Fizz-Buzz\\Fizz-Buzz.csproj": {
+    "C:\\Users\\iisak\\Documents\\GitHub\\iisakkikivimaki_swd\\Fizz-Buzz\\Fizz-Buzz.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\iisak\\source\\repos\\Fizz-Buzz\\Fizz-Buzz.csproj",
+        "projectUniqueName": "C:\\Users\\iisak\\Documents\\GitHub\\iisakkikivimaki_swd\\Fizz-Buzz\\Fizz-Buzz.csproj",
         "projectName": "Fizz-Buzz",
-        "projectPath": "C:\\Users\\iisak\\source\\repos\\Fizz-Buzz\\Fizz-Buzz.csproj",
+        "projectPath": "C:\\Users\\iisak\\Documents\\GitHub\\iisakkikivimaki_swd\\Fizz-Buzz\\Fizz-Buzz.csproj",
         "packagesPath": "C:\\Users\\iisak\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\iisak\\source\\repos\\Fizz-Buzz\\obj\\",
+        "outputPath": "C:\\Users\\iisak\\Documents\\GitHub\\iisakkikivimaki_swd\\Fizz-Buzz\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\iisak\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "c2F27WWpNxzuUEM8wfRfqEcu5ur5hZHK1kM24SsKR+60xeeh+Lzx6xSwyBdYvQmhB0HhfbVRwri0H9h1XoefAQ==",
+  "dgSpecHash": "HKH874jIP2OuJWOKzFpFJ67dDWz+hDCQebBOC7rHgMrhCVfGIgQF5Mjqv8ukniQS4hXYSbF1UGjfXGOT5udd0Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\iisak\\source\\repos\\Fizz-BuzzTests\\Fizz-BuzzTests.csproj",
+  "projectFilePath": "C:\\Users\\iisak\\Documents\\GitHub\\iisakkikivimaki_swd\\Fizz-BuzzTests\\Fizz-BuzzTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\iisak\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",
     "C:\\Users\\iisak\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",

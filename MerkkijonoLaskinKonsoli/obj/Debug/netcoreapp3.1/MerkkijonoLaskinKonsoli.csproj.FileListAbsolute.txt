@@ -1,0 +1,13 @@
+C:\Users\iisak\source\repos\MerkkijonoLaskinKonsoli\bin\Debug\netcoreapp3.1\MerkkijonoLaskinKonsoli.exe
+C:\Users\iisak\source\repos\MerkkijonoLaskinKonsoli\bin\Debug\netcoreapp3.1\MerkkijonoLaskinKonsoli.deps.json
+C:\Users\iisak\source\repos\MerkkijonoLaskinKonsoli\bin\Debug\netcoreapp3.1\MerkkijonoLaskinKonsoli.runtimeconfig.json
+C:\Users\iisak\source\repos\MerkkijonoLaskinKonsoli\bin\Debug\netcoreapp3.1\MerkkijonoLaskinKonsoli.runtimeconfig.dev.json
+C:\Users\iisak\source\repos\MerkkijonoLaskinKonsoli\bin\Debug\netcoreapp3.1\MerkkijonoLaskinKonsoli.dll
+C:\Users\iisak\source\repos\MerkkijonoLaskinKonsoli\bin\Debug\netcoreapp3.1\MerkkijonoLaskinKonsoli.pdb
+C:\Users\iisak\source\repos\MerkkijonoLaskinKonsoli\obj\Debug\netcoreapp3.1\MerkkijonoLaskinKonsoli.csprojAssemblyReference.cache
+C:\Users\iisak\source\repos\MerkkijonoLaskinKonsoli\obj\Debug\netcoreapp3.1\MerkkijonoLaskinKonsoli.AssemblyInfoInputs.cache
+C:\Users\iisak\source\repos\MerkkijonoLaskinKonsoli\obj\Debug\netcoreapp3.1\MerkkijonoLaskinKonsoli.AssemblyInfo.cs
+C:\Users\iisak\source\repos\MerkkijonoLaskinKonsoli\obj\Debug\netcoreapp3.1\MerkkijonoLaskinKonsoli.csproj.CoreCompileInputs.cache
+C:\Users\iisak\source\repos\MerkkijonoLaskinKonsoli\obj\Debug\netcoreapp3.1\MerkkijonoLaskinKonsoli.dll
+C:\Users\iisak\source\repos\MerkkijonoLaskinKonsoli\obj\Debug\netcoreapp3.1\MerkkijonoLaskinKonsoli.pdb
+C:\Users\iisak\source\repos\MerkkijonoLaskinKonsoli\obj\Debug\netcoreapp3.1\MerkkijonoLaskinKonsoli.genruntimeconfig.cache

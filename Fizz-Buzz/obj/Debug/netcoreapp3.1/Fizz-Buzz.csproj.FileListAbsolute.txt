@@ -1,13 +1,5 @@
 C:\Users\iisak\Documents\GitHub\iisakkikivimaki_swd\Fizz-Buzz\bin\Debug\netcoreapp3.1\Fizz-Buzz.exe
-C:\Users\iisak\Documents\GitHub\iisakkikivimaki_swd\Fizz-Buzz\bin\Debug\netcoreapp3.1\Fizz-Buzz.deps.json
-C:\Users\iisak\Documents\GitHub\iisakkikivimaki_swd\Fizz-Buzz\bin\Debug\netcoreapp3.1\Fizz-Buzz.runtimeconfig.json
-C:\Users\iisak\Documents\GitHub\iisakkikivimaki_swd\Fizz-Buzz\bin\Debug\netcoreapp3.1\Fizz-Buzz.runtimeconfig.dev.json
-C:\Users\iisak\Documents\GitHub\iisakkikivimaki_swd\Fizz-Buzz\bin\Debug\netcoreapp3.1\Fizz-Buzz.dll
-C:\Users\iisak\Documents\GitHub\iisakkikivimaki_swd\Fizz-Buzz\bin\Debug\netcoreapp3.1\Fizz-Buzz.pdb
-C:\Users\iisak\Documents\GitHub\iisakkikivimaki_swd\Fizz-Buzz\obj\Debug\netcoreapp3.1\Fizz-Buzz.csprojAssemblyReference.cache
 C:\Users\iisak\Documents\GitHub\iisakkikivimaki_swd\Fizz-Buzz\obj\Debug\netcoreapp3.1\Fizz-Buzz.AssemblyInfoInputs.cache
 C:\Users\iisak\Documents\GitHub\iisakkikivimaki_swd\Fizz-Buzz\obj\Debug\netcoreapp3.1\Fizz-Buzz.AssemblyInfo.cs
 C:\Users\iisak\Documents\GitHub\iisakkikivimaki_swd\Fizz-Buzz\obj\Debug\netcoreapp3.1\Fizz-Buzz.csproj.CoreCompileInputs.cache
-C:\Users\iisak\Documents\GitHub\iisakkikivimaki_swd\Fizz-Buzz\obj\Debug\netcoreapp3.1\Fizz-Buzz.dll
-C:\Users\iisak\Documents\GitHub\iisakkikivimaki_swd\Fizz-Buzz\obj\Debug\netcoreapp3.1\Fizz-Buzz.pdb
-C:\Users\iisak\Documents\GitHub\iisakkikivimaki_swd\Fizz-Buzz\obj\Debug\netcoreapp3.1\Fizz-Buzz.genruntimeconfig.cache
+C:\Users\iisak\Documents\GitHub\iisakkikivimaki_swd\Fizz-Buzz\obj\Debug\netcoreapp3.1\Fizz-Buzz.csprojAssemblyReference.cache

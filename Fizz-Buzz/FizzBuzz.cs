@@ -25,17 +25,17 @@
             return syote.ToString();
         }
 
-        private static bool OnkoJaollinenViidellaToista(int syote)
+        public static bool OnkoJaollinenViidellaToista(int syote)
         {
             return OnkoJaollinenKolmella(syote) && OnkoJaollinenViidella(syote);
         }
 
-        private static bool OnkoJaollinenKolmella(int syote)
+        public static bool OnkoJaollinenKolmella(int syote)
         {
             return syote % 3 == 0;
         }
 
-        private static bool OnkoJaollinenViidella(int syote)
+        public static bool OnkoJaollinenViidella(int syote)
         {
             return syote % 5 == 0;
         }
